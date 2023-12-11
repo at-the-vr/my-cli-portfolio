@@ -1,6 +1,6 @@
 {
   "name": "@at-the-vr/mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimalistic cli portfolio",
   "type": "module",
   "main": "index.js",
