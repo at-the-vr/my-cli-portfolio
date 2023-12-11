@@ -18,6 +18,10 @@
     "name": "Atharva Pise <atharvapise19@gmail.com>",
     "url": "https://twitter.com/at_the_vr"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/at-the-vr/my-cli-portfolio.git"
+  },
   "license": "ISC",
   "dependencies": {
     "@clack/prompts": "^0.2.0",
