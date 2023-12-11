@@ -1,14 +1,23 @@
 {
-  "name": "my-cli-portfolio",
+  "name": "@at-the-vr/mcp",
   "version": "1.0.0",
-  "description": "",
+  "description": "A minimalistic cli portfolio",
   "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "bin": {
+    "who-Atharva": "./index.js"
+  },
+  "keywords": [
+    "cli",
+    "portfolio"
+  ],
+  "author": {
+    "name": "Atharva Pise <atharvapise19@gmail.com>",
+    "url": "https://twitter.com/at_the_vr"
+  },
   "license": "ISC",
   "dependencies": {
     "@clack/prompts": "^0.2.0",
