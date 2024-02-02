@@ -19,8 +19,8 @@ async function main() {
 
   const aboutMe = 'Frontend Enthusiast, Documentation Fanatic';
 
-  const myExperience =
-    'Frontend Intern @Infineon Technologies \n   Tech Stack Vue, Vuex, Bootstrap';
+  const myExperience = `Frontend Intern @Infineon Technologies \n   Tech Stack Vue, Vuex, Bootstrap \n
+   Python for ML/AI Intern @Elite Techno Groups \n   Python, Google Colab`;
 
   const skillSet = 'HTML/CSS/JS, Vue, Astro, Starlight, Bootstrap';
 
