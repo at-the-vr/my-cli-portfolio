@@ -1,6 +1,6 @@
 {
-  "name": "@at-the-vr/mcp",
-  "version": "1.0.1",
+  "name": "who-atharva",
+  "version": "0.0.1",
   "description": "A minimalistic cli portfolio",
   "type": "module",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "who-Atharva": "./index.js"
+    "who-atharva": "./index.js"
   },
   "keywords": [
     "cli",
